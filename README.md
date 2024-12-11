@@ -3,8 +3,8 @@ A simple two-player game where each player take turn marking "X" or "O" in a 3x3
 
 Technology Stack:
 
-HTML: Structure of the web page, including the grid and game layout.
-CSS: Styling the game (e.g., grid lines, colors).
-JavaScript: Game logic, handling user interactions, and determining the winner.
+- HTML: Structure of the web page, including the grid and game layout.
+- CSS: Styling the game (e.g., grid lines, colors).
+- JavaScript: Game logic, handling user interactions, and determining the winner.
 
 Link - https://sanginii.github.io/Tic-Tac-Toe/
